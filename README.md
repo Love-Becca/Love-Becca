@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Love-Becca/Love-Becca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
    <h2>Hi there 👋 I am Folake Sowonoye</h1>
   <div align="left">
     <p>🌱 A Front-end Developer <br>
-    🌱 Currently undergoing ALX Software Engineer Programme<br>
+    🌱 Currently undergoing ALX Software Engineering Programme<br>
     👯 Looking forward to contributing and collaborting to projects<br>
     🤔 I’m in search of opportunities for remote and onsite Jobs as a Frontend Developer <br>
     📫 Contact me via @: follycube2020@gmail.com </p>
