@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <p>🌱 I'm a passionate Front-end Developer with a focus on creating engaging and user-friendly web experiences. I'm eager to contribute to meaningful projects and collaborate with innovative teams.</p>
     <p>🔍 Looking for remote and onsite opportunities as a Frontend Developer.</p>
     <p>📫 Reach out to me at follycube2020@gmail.com.</p>
-    <p>💼 Here are some of my recent projects: [Project Name](link-to-project), [Project Name](link-to-project).</p>
+    <p>💼 Here are some of my recent projects: <a href= "https://exchange.adobe.com/apps/cc/ca57f118/keyflow-windows">KeyFlow</a>, <a href="https://new.express.adobe.com/new?category=addOns&claimCode=w89944216:EBCL3VR1">Genie</a>.</p>
     <p>🛠️ Skills: HTML, CSS, JavaScript, React JS.</p>
     <p>📚 Always learning and growing in my field.</p>
     <p>👥 Let's connect and create something amazing together!</p>
