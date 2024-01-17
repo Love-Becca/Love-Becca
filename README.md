@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </div>
   <h2>Hi there 👋 I am Folake Sowonoye</h2>
   <div align="left">
-    <p>🌱 I'm a passionate Front-end Developer with a focus on creating engaging and user-friendly web experiences. Currently enhancing my skills through the ALX Software Engineering Programme. I'm eager to contribute to meaningful projects and collaborate with innovative teams.</p>
+    <p>🌱 I'm a passionate Front-end Developer with a focus on creating engaging and user-friendly web experiences. I'm eager to contribute to meaningful projects and collaborate with innovative teams.</p>
     <p>🔍 Looking for remote and onsite opportunities as a Frontend Developer.</p>
     <p>📫 Reach out to me at follycube2020@gmail.com.</p>
     <p>💼 Here are some of my recent projects: [Project Name](link-to-project), [Project Name](link-to-project).</p>
