@@ -15,19 +15,21 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" alt="coding gif" width="15%"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/folake-sowonoye-06857719a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/SowonoyeO">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    <a href="https://www.linkedin.com/in/folake-sowonoye-06857719a/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/SowonoyeO">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
   </div>
-   <h2>Hi there 👋 I am Folake Sowonoye</h1>
+  <h2>Hi there 👋 I am Folake Sowonoye</h2>
   <div align="left">
-    <p>🌱 A Front-end Developer <br>
-    🌱 Currently undergoing ALX Software Engineering Programme<br>
-    👯 Looking forward to contributing and collaborting to projects<br>
-    🤔 I’m in search of opportunities for remote and onsite Jobs as a Frontend Developer <br>
-    📫 Contact me via @: follycube2020@gmail.com </p>
+    <p>🌱 I'm a passionate Front-end Developer with a focus on creating engaging and user-friendly web experiences. Currently enhancing my skills through the ALX Software Engineering Programme. I'm eager to contribute to meaningful projects and collaborate with innovative teams.</p>
+    <p>🔍 Looking for remote and onsite opportunities as a Frontend Developer.</p>
+    <p>📫 Reach out to me at follycube2020@gmail.com.</p>
+    <p>💼 Here are some of my recent projects: [Project Name](link-to-project), [Project Name](link-to-project).</p>
+    <p>🛠️ Skills: HTML, CSS, JavaScript, React JS.</p>
+    <p>📚 Always learning and growing in my field.</p>
+    <p>👥 Let's connect and create something amazing together!</p>
   </div>
 </div>
